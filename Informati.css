@@ -1,0 +1,153 @@
+header {
+    background-color: gray;
+    margin: 0 auto;
+    margin-top: 0 auto;
+    margin-left: 0 auto;
+    height: 135px;
+    width: 1350px;
+}
+
+.container {
+    width: 1340px;
+    margin-top: 0 auto;
+}
+
+header img {
+    margin-left: 10px;
+    margin-top: 0 auto;
+    float: left;
+}
+
+
+nav {
+    float: right;
+    margin-right: 40px;
+}
+
+nav ul {
+    margin-top: 60px;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-left: 40px;
+}
+ 
+nav ul li a {
+    font-family: Arial;
+    font-size: 20px;
+}
+
+.sectiune_texte h2 {
+    margin-top: 20px;
+    text-align: center;
+    font-size: 35px;
+    font-family: Arial;
+    text-decoration: underline;
+
+}
+
+
+.sectiune_texte p {
+    margin-top: 20px;
+    border-bottom: 10px;
+    width: 1340x;
+    text-indent: 40px;
+    font-family: Arial;
+    font-size: 20px;
+
+}
+
+.articole {
+    width: 100%;
+    /* background-color: ; */
+    padding: 20px 0px;
+    overflow: hidden;
+}
+
+.articole article {
+    width: 23%;
+    float: left;
+    margin: 0 1%;
+}
+
+.img_art {
+    width: 100%;
+    height: 170px;
+    background-image: url("Nike2.png");
+}
+
+.articole article h2 {
+    text-align: center;
+    text-transform: uppercase;
+    padding: 20px 0px;
+    font-weight: 600;
+    font-size: 20px;
+    font-family: Arial;
+}
+
+.articole article p {
+    padding: 20px 0px;
+    font-size: 15px;
+    font-family: Arial;
+    text-indent: 25px;
+}
+
+.Tabel {
+    width: 100%;
+    padding: 40px 0;
+}
+
+.Tabel table {
+    width: 80%;
+    margin-left: 50px;
+} 
+
+.Tabel table th {
+    text-align: left;
+    font-size: 20px;
+}
+
+.Tabel table td,th {
+    border-style: solid;
+    border-width: 3px;
+    border-color: black;
+
+}
+
+footer {
+    width: 100%;
+    padding: 15px;
+    background-color: gray;
+    margin-top: 120px;
+    margin-left: 0 auto;
+}
+
+footer h1 {
+    text-align: center;
+    font-size: 15px;
+    text-decoration: underline;
+    color: black;
+}
+
+@media (max-with: 700px) {
+    .sectiune_texte h2 {
+        margin-top: 20px;
+        text-align: center;
+        font-size: 35px;
+        font-family: Arial;
+        text-decoration: underline;
+    
+    }
+    
+    
+    .sectiune_texte p {
+        margin-top: 20px;
+        border-bottom: 10px;
+        width: 1340x;
+        text-indent: 40px;
+        font-family: Arial;
+        font-size: 20px;
+    
+    }
+}

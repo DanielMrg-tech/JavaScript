@@ -1,0 +1,75 @@
+header {
+    background-color: grey;
+    margin-top: 0 auto;
+    margin-left: 0 auto;
+    width: 1340px;
+    height: 145px;
+    margin: 0 auto;
+}
+
+.conteiner {
+    width: 100%;
+    margin-top: 0 auto;
+}
+
+nav {
+    float: right;
+    margin-right: 40px;
+}
+
+nav ul {
+    margin-top: 60px;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-left: 40px;
+    font-size: larger;
+    color: black;
+}
+
+.Inregistrare {
+    text-align: center;
+    width: 100%;
+    padding: 0px 0;
+}
+
+.Inregistrare h1 {
+    margin-bottom: 5px;
+    text-indent: 15px;
+    font-size: 20px;
+}
+
+.Inregistrare input {
+    width: 15%;
+    margin-bottom: 5px;
+    text-indent: 5px;
+    border: 2px solid black;
+}
+
+.radio_form {
+    width: 2% !important;
+    margin-left: 0 !important;
+    text-align: center;
+    margin-right: 3px;
+
+}
+
+.but {
+    text-align: left !important;
+    text-indent: 5px;
+
+}
+
+.font {
+    background-color: grey;
+    margin-top: 0 auto;
+    margin-left: 0 auto;
+    width: 1340px;
+    height: 480px;
+    margin: 0 auto;
+}
+
+.logare {
+    margin-right: 10px;
+}

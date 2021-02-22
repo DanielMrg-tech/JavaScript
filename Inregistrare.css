@@ -1,0 +1,93 @@
+header {
+    background-color: grey;
+    margin-top: 0 auto;
+    margin-left: 0 auto;
+    width: 1340px;
+    height: 245px;
+    margin: 0 auto;
+}
+
+.conteiner {
+    width: 100%;
+    margin-top: 0 auto;
+}
+
+header img {
+    margin-left: 15px;
+    margin-top: 5px;
+    float: left;
+}
+
+nav {
+    float: right;
+    margin-right: 40px;
+}
+
+nav ul {
+    margin-top: 60px;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-left: 40px;
+    font-size: larger;
+    color: black;
+}
+
+.Inregistrare {
+    text-align: center;
+    /* margin: 0;
+    min-height: 100%;
+    position: relative; */
+    font-family: "Open Sans",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.42857;
+    color: #000;
+    /* background-color: #f7f7f7; */
+    /* -webkit-text-size-adjust: 100%; */
+    -webkit-tap-highlight-color: transparent;
+    box-sizing: border-box;
+
+}
+
+.Inregistrare h1 {
+    margin-bottom: 5px;
+    text-indent: 15px;
+    font-size: 20px;
+}
+
+.Inregistrare input {
+    width: 15%;
+    margin-bottom: 5px;
+    text-indent: 5px;
+    border: 2px solid black;
+}
+
+.radio_form {
+    width: 2% !important;
+    margin-left: 0 !important;
+    text-align: center;
+    margin-right: 3px;
+
+}
+
+.but {
+    text-align: left !important;
+    text-indent: 5px;
+
+}
+
+.font {
+    font-family: "Open Sans",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.42857;
+    color: #000;
+    background-color: #f7f7f7;
+    -webkit-text-size-adjust: 100%;
+}
+
+.logare {
+    margin-right: 10px;
+}
